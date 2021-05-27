@@ -22,24 +22,8 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
- 
-
 I'm group manager bot for Rusel (Do not use me)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 """
 
 
